@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_shared_har_ki_tip3s",
+  "info": {
+    "displayName": "Хар-ки тип3",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "detector": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.char"
+    },
+    "visible_sensor": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.char"
+    },
+    "thermal_lens": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.char"
+    }
+  }
+}
